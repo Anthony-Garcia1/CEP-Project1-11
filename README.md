@@ -4,8 +4,10 @@
 ### Project Overview
 
 - **Course:** CEP
-- **Project Topic:** Green Engineering
 - **Project Title:** Green Software Engineering Trends
+
+### Video Link
+https://youtu.be/OEsvygL46v8
 
 ### Description
 
@@ -13,6 +15,11 @@ This project explores current trends in green software engineering and the envir
 
 ### Project Members
 
-- **Anthony Garcia** — Student ID: 049420144
-- **Luis Ernesto Morales Guajardo** — Student ID: 142011246
-- **Chen Zeng** — Student ID: 119457265
+- **Anthony Garcia** (049420144)  
+  **Role:** Set up repository, created opening slides, and wrote the README file.
+
+- **Luis Ernesto Morales Guajardo** (142011246)  
+  **Role:** Created closing slides, edited the video, and uploaded the video.
+
+- **Chen Zeng** (119457265)  
+  **Role:** Researched energy usage statistics, created charts, and compiled the source list.
