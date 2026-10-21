@@ -1,0 +1,3 @@
+# Part 3: What developers can do (Luis)
+
+So what can developers actually do? The Green Software Foundation gives us a few key ideas. First, energy efficiency: write code that does the same job with less computing, and skip the AI call when a simple rule is enough. Second, carbon awareness: run heavy tasks, like training or backups, when the electricity is cleaner. Third, hardware efficiency: keep devices and servers running longer instead of replacing them. And fourth, measurement: what you can't measure, you can't improve. Since 2024 there is even an ISO standard for that, the Software Carbon Intensity specification. The UN is now asking AI companies to be honest about their footprint. As future developers, we can start with our own code. Thanks for watching!
